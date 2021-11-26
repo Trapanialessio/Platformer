@@ -1,0 +1,55 @@
+{
+	"name": "TempleFloor",
+	"plugin-id": "Sprite",
+	"sid": 561946055794529,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 843400341033243
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 302,
+						"height": 129,
+						"originX": 0.5,
+						"originY": 0.023255813953488372,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5672464,
+						"collisionPoly": {
+							"points": [
+								0.0033112582781456954,
+								0.005813953488372093,
+								0.9966887417218543,
+								0.006782945736434108,
+								0.9966887417218543,
+								0.9922480620155039,
+								0.0033112582781456954,
+								0.9922480620155039
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 750383591897927,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

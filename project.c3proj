@@ -13,13 +13,45 @@
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Keyboard",
+			"name": "Keyboard",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Platform",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
 		}
 	],
 	"uniqueId": "dspevsmtmw1",
 	"objectTypes": {
 		"items": [
 			"IcyPlatform",
-			"BG"
+			"BG",
+			"Player",
+			"BigIcyPlatform",
+			"Enemy",
+			"TempleFloor",
+			"TempleColumn",
+			"RoofTemple",
+			"Keyboard",
+			"EdgeMarker"
 		],
 		"subfolders": []
 	},

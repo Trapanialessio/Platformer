@@ -1,0 +1,102 @@
+{
+	"name": "Enemy",
+	"plugin-id": "Sprite",
+	"sid": 957069582217407,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Variable1",
+			"type": "string",
+			"desc": "",
+			"sid": 704740019340167
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 559563737519978
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 136,
+						"height": 86,
+						"originX": 0.5073529411764706,
+						"originY": 0.046511627906976744,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 1608956,
+						"collisionPoly": {
+							"points": [
+								0.17095588235294137,
+								0.063953488372093,
+								0.4172794117647059,
+								6.938893903907228e-18,
+								0.7187500000000001,
+								0.2441860465116277,
+								0.9908088235294118,
+								0.6889534883720934,
+								0.9926470588235292,
+								0.9883720930232558,
+								0.5,
+								0.9854651162790697,
+								0,
+								0.9883720930232559,
+								0.012867647058823678,
+								0.48546511627906996
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 136,
+						"height": 86,
+						"originX": 0.5073529411764706,
+						"originY": 0.046511627906976744,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3857694,
+						"collisionPoly": {
+							"points": [
+								0.17095588235294137,
+								0.063953488372093,
+								0.4172794117647059,
+								6.938893903907228e-18,
+								0.7187500000000001,
+								0.2441860465116277,
+								0.9908088235294118,
+								0.6889534883720934,
+								0.9926470588235292,
+								0.9883720930232558,
+								0.5,
+								0.9854651162790697,
+								0,
+								0.9883720930232559,
+								0.012867647058823678,
+								0.48546511627906996
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 392961523442703,
+				"name": "Crawling",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 3
+			}
+		],
+		"subfolders": []
+	}
+}

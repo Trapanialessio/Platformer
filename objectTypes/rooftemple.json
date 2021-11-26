@@ -1,0 +1,65 @@
+{
+	"name": "RoofTemple",
+	"plugin-id": "Sprite",
+	"sid": 228172465637080,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 701964321447306
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 750,
+						"height": 150,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8664915,
+						"collisionPoly": {
+							"points": [
+								0.835666666666667,
+								0,
+								0.8908333333333326,
+								0.2125,
+								0.9105833333333327,
+								0.3195833333333332,
+								0.9404583333333327,
+								0.42645833333333344,
+								0.9676666666666663,
+								0.5766666666666671,
+								0.9986666666666667,
+								0.9933333333333333,
+								0.5,
+								0.9933333333333333,
+								0,
+								0.9933333333333333,
+								0,
+								0
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 265134367546553,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,7 +1,7 @@
 {
-	"name": "BG",
+	"name": "TempleColumn",
 	"plugin-id": "Sprite",
-	"sid": 207873358113347,
+	"sid": 731545506720435,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,19 +11,31 @@
 			{
 				"frames": [
 					{
-						"width": 3840,
-						"height": 2160,
+						"width": 144,
+						"height": 502,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1925808,
+						"imageSpriteId": 3489509,
+						"collisionPoly": {
+							"points": [
+								0,
+								0.00199203187250996,
+								1,
+								0.00199203187250996,
+								1,
+								0.99800796812749,
+								0,
+								0.99800796812749
+							]
+						},
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 230085516573874,
+				"sid": 282503404905221,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

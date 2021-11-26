@@ -1,0 +1,63 @@
+{
+	"name": "BigIcyPlatform",
+	"plugin-id": "Sprite",
+	"sid": 605207465695828,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 998319389868247
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 502,
+						"height": 823,
+						"originX": 0.28087649402390436,
+						"originY": 0.5212636695018226,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4268310,
+						"collisionPoly": {
+							"points": [
+								0,
+								0.007594167679222356,
+								0.4940239043824701,
+								0.007897934386391251,
+								0.4950199203187251,
+								0.6816524908869986,
+								0.9985059760956175,
+								0.6828675577156741,
+								0.9970119521912351,
+								0.9984811664641556,
+								0.5,
+								0.9984811664641556,
+								0.00199203187250996,
+								0.9987849331713246,
+								0.00199203187250996,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 966212610205834,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
