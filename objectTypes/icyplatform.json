@@ -1,0 +1,73 @@
+{
+	"name": "IcyPlatform",
+	"plugin-id": "Sprite",
+	"sid": 899204206169262,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 252,
+						"height": 62,
+						"originX": 0.5,
+						"originY": 0.8709677419354839,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4651767,
+						"collisionPoly": {
+							"points": [
+								0.003968253968253954,
+								0,
+								0.996031746031746,
+								0,
+								0.996031746031746,
+								1,
+								0.003968253968253954,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 252,
+						"height": 62,
+						"originX": 0.5,
+						"originY": 0.8709677419354839,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5391411,
+						"collisionPoly": {
+							"points": [
+								0.003968253968253954,
+								0,
+								0.996031746031746,
+								0,
+								0.996031746031746,
+								1,
+								0.003968253968253954,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 592734038511885,
+				"name": "Shimmer",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 2
+			}
+		],
+		"subfolders": []
+	}
+}
